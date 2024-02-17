@@ -1,7 +1,6 @@
-# Touch - Karvz
+# ⚽ | Touch - Karvz
 
-Welcome to Touch organization, where Brazilian passion meets innovative gaming! 🇧🇷⚽
-
+Welcome to Touch organization, where Brazilian passion meets innovative gaming! 🇧🇷
 Explore the world of Touch, a thrilling soccer game developed by our talented team. Join us as we conquer the fields, compete in tournaments, and revolutionize the esports scene with our top-down gameplay.
 
 ## Quick Links
