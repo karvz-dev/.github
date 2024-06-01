@@ -1,5 +1,9 @@
 # Touch - Karvz
 
+<p align="center" width="100%">
+<img  width="50%" src="https://github.com/touch-karvz/.github/assets/62967229/f55e3462-c001-41e1-97f1-8eeb364fbd2f" />
+<p/>
+
 Welcome to Touch organization, where Brazilian passion meets innovative gaming! 🇧🇷⚽
 
 Explore the world of Touch, a thrilling soccer game developed by our talented team. Join us as we conquer the fields, compete in tournaments, and revolutionize the esports scene with our top-down gameplay.
