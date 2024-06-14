@@ -29,7 +29,7 @@ Meet the team behind the scenes making it all happen:
   - Telegram: @suerow
   - Skills: Game Programmer, Network Architect, Database Engineer
 
-## Touch: Top-Down Esports ⚽
+## Touch: Top-Down Esports 🇧🇷
 
 ### Description
 Join your friends in this thrilling free-to-play multi-platform game! It's time to dominate the pitches and explore a variety of game modes, assembling your team to compete in tournaments with amazing prizes! Customize your character, develop your favorite build, and discover various tactics and ways to win. Get ready for unique and electrifying matches in this innovative and free game!
