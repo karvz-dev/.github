@@ -1,4 +1,4 @@
-# Touch - Karvz
+# Touch - Karvz 🇧🇷
 
 <p align="center" width="100%">
 <img  width="50%" src="https://github.com/touch-karvz/.github/assets/62967229/f55e3462-c001-41e1-97f1-8eeb364fbd2f" />
