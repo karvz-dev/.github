@@ -10,7 +10,7 @@ Explore the world of Touch, a thrilling soccer game developed by our talented te
 
 ## Quick Links
 - [Website](https://touchesports.com/)
-- [Discord](https://discord.gg/BYBefwZjD8)
+- [Discord](https://discord.gg/P39BcnfPtz)
 
 <hr/>
 
@@ -53,6 +53,6 @@ Join your friends in this thrilling free-to-play multi-platform game! It's time 
 Stay updated with the latest news, updates, and announcements:
 
 - [Website](https://touchesports.com/)
-- [Discord](https://discord.gg/BYBefwZjD8)
+- [Discord](https://discord.gg/P39BcnfPtz)
 
 Let's kick off the excitement together! 🚀
